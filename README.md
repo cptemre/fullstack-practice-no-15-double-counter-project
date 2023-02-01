@@ -1,3 +1,5 @@
+![example](public/doubleCounterProject.png)
+
 # DOUBLE COUNTER PROJECT
 
 ## FULLSTACK PRACTICE PROJECT NO: 15
